@@ -1,0 +1,36 @@
+c:\users\edsel\documents\visual studio 2012\Projects\Heapsort\Heapsort\bin\Debug\Heapsort.exe.config
+c:\users\edsel\documents\visual studio 2012\Projects\Heapsort\Heapsort\bin\Debug\Heapsort.exe
+c:\users\edsel\documents\visual studio 2012\Projects\Heapsort\Heapsort\bin\Debug\Heapsort.pdb
+c:\users\edsel\documents\visual studio 2012\Projects\Heapsort\Heapsort\obj\Debug\Heapsort.csprojResolveAssemblyReference.cache
+c:\users\edsel\documents\visual studio 2012\Projects\Heapsort\Heapsort\obj\Debug\Heapsort.Form1.resources
+c:\users\edsel\documents\visual studio 2012\Projects\Heapsort\Heapsort\obj\Debug\Heapsort.Properties.Resources.resources
+c:\users\edsel\documents\visual studio 2012\Projects\Heapsort\Heapsort\obj\Debug\Heapsort.csproj.GenerateResource.Cache
+c:\users\edsel\documents\visual studio 2012\Projects\Heapsort\Heapsort\obj\Debug\Heapsort.exe
+c:\users\edsel\documents\visual studio 2012\Projects\Heapsort\Heapsort\obj\Debug\Heapsort.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\CHECAR\Heapsort\Heapsort\bin\Debug\Heapsort.exe.config
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\CHECAR\Heapsort\Heapsort\obj\Debug\Heapsort.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\CHECAR\Heapsort\Heapsort\obj\Debug\Heapsort.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\CHECAR\Heapsort\Heapsort\bin\Debug\Heapsort.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\CHECAR\Heapsort\Heapsort\bin\Debug\Heapsort.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\CHECAR\Heapsort\Heapsort\obj\Debug\Heapsort.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\CHECAR\Heapsort\Heapsort\obj\Debug\Heapsort.Form1.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\CHECAR\Heapsort\Heapsort\obj\Debug\Heapsort.Properties.Resources.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\CHECAR\Heapsort\Heapsort\obj\Debug\Heapsort.csproj.GenerateResource.Cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Heapsort\Heapsort\bin\Debug\Heapsort.exe.config
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Heapsort\Heapsort\obj\Debug\Heapsort.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Heapsort\Heapsort\obj\Debug\Heapsort.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Heapsort\Heapsort\bin\Debug\Heapsort.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Heapsort\Heapsort\bin\Debug\Heapsort.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Heapsort\Heapsort\obj\Debug\Heapsort.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Heapsort\Heapsort\obj\Debug\Heapsort.Form1.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Heapsort\Heapsort\obj\Debug\Heapsort.Properties.Resources.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Heapsort\Heapsort\obj\Debug\Heapsort.csproj.GenerateResource.Cache
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Ordenacion por heapsort\Heapsort\bin\Debug\Heapsort.exe.config
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Ordenacion por heapsort\Heapsort\obj\Debug\Heapsort.exe
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Ordenacion por heapsort\Heapsort\obj\Debug\Heapsort.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Ordenacion por heapsort\Heapsort\bin\Debug\Heapsort.exe
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Ordenacion por heapsort\Heapsort\bin\Debug\Heapsort.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Ordenacion por heapsort\Heapsort\obj\Debug\Heapsort.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Ordenacion por heapsort\Heapsort\obj\Debug\Heapsort.Form1.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Ordenacion por heapsort\Heapsort\obj\Debug\Heapsort.Properties.Resources.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Ordenacion por heapsort\Heapsort\obj\Debug\Heapsort.csproj.GenerateResource.Cache
